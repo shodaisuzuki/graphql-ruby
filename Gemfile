@@ -23,6 +23,8 @@ group :development, :test do
   gem 'graphiql-rails', '1.4.4'
   gem 'rubocop'
   gem 'rubocop-rails'
+  gem 'pry-byebug'
+  gem 'pry-rails'
 end
 
 group :development do
